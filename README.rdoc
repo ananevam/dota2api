@@ -2,14 +2,13 @@
 
 Dota2api is a Ruby library for Dota2 API (https://developer.valvesoftware.com/wiki/Steam_Web_API).
 
-## Installation
+== Installation
 
 Add the following to your Gemfile:
 
-```ruby
-gem 'dota2api', '0.0.1', :git => 'git://github.com/ananevam/dota2api.git'
-```
+	gem 'dota2api', '0.0.1', :git => 'git://github.com/ananevam/dota2api.git'
 
-## License
+
+== License
 
 This project rocks and uses MIT-LICENSE.
