@@ -1,3 +1,7 @@
 = Dota2api
 
 This project rocks and uses MIT-LICENSE.
+
+= Installation
+
+gem 'dota2api', '0.0.1', :git => 'git://github.com/ananevam/dota2api.git'
